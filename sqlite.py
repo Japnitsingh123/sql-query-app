@@ -19,10 +19,10 @@ cursor.execute(table_info)
 
 ##insert some record
 
-cursor.execute("""Insert into STUDENT values('Japnit','maths','A') """)
-cursor.execute("""Insert into STUDENT values('Kunal','phy','B') """)
-cursor.execute("""Insert into STUDENT values('Ritika','Bio','C') """)
-cursor.execute("""Insert into STUDENT values('Angad','eng','B') """)
+cursor.execute("""Insert into STUDENT values('Ram','Physics','A') """)
+cursor.execute("""Insert into STUDENT values('Sudhir','Chem','B') """)
+cursor.execute("""Insert into STUDENT values('Manish','Maths','C') """)
+cursor.execute("""Insert into STUDENT values('Angad','English','D') """)
 
 ##display all the record
 print("the records are")
