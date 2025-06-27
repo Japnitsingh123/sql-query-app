@@ -51,7 +51,7 @@ st.set_page_config("SmartQuery: AI-Powered Student DB Tool")
 st.markdown("""
     <style>
         body, .main {
-            background-color: #0A0E21;  /* Dark navy-blue */
+            background-color: #0E1117;  /* Dark navy-blue */
             color: #FFFFFF;
             font-family: 'Segoe UI', sans-serif;
         }
