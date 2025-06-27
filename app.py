@@ -52,7 +52,7 @@ st.markdown("""
     <style>
         body, .main {
             background-color: #0E1117;  /* Dark navy-blue */
-            color: #FFFFFF;
+            color: #0E1117;
             font-family: 'Segoe UI', sans-serif;
         }
 
